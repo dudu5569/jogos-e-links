@@ -1,0 +1,330 @@
+
+/* CORPO E DIVISÕES*/
+
+
+#body{
+    background-repeat:repeat;
+    background-image: -webkit-linear-gradient(right, rgb(54, 54, 54), rgb(27, 27, 27) );
+    
+}
+
+
+.inicio{
+background-repeat: repeat;
+background-image: -webkit-linear-gradient(right, rgb(54, 54, 54), rgb(27, 27, 27) );
+    
+}
+
+
+.games{
+    margin-left: 300px;
+    width: 700px;
+    height: 500px;
+    background-color: rgb(80, 80, 80);
+    border-color:transparent;
+}
+
+
+/*CORPO E DIVISÕES*/
+
+
+/*TEXTOS*/
+
+.title{
+    color: rgb(255, 248, 248);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-shadow: 2px 2px black;
+    text-align: center;
+}
+
+.subtitle{
+    color: rgb(255, 248, 248);
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px black;
+    font-size: medium;
+    text-align: center;
+}
+
+.gamesdesc{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+    position: flex;
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+
+
+/*TEXTOS*/
+
+
+/*BOTÕES*/
+
+#casebutton{
+    color: rgb(20, 20, 20);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 280px;
+    margin-top: 70px;
+}
+
+#casebutton:hover{
+    background-color: rgb(44, 44, 44);
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+#butao{
+    color: rgb(20, 20, 20);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;      
+    margin-left: 585px;
+}
+
+#butao:hover{
+    background-color: rgb(44, 44, 44);
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+
+#spotbutton{
+    color: rgb(20, 20, 20);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 280px
+}
+
+#spotbutton:hover{
+    background-color: rgb(44, 44, 44);
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+#csbutton{
+    color: rgb(20, 20, 20);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 280px;
+    margin-top: 85px
+}
+
+
+#csbutton:hover{
+    background-color: rgb(44, 44, 44);
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+
+#f1button{
+    color: rgb(20, 20, 20);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 280px;
+    margin-top: 60px
+}
+
+#f1button:hover{
+    background-color: rgb(44, 44, 44);
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+#left4button{
+    color: rgb(20, 20, 20);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 280px;
+    margin-top: 55px;
+}
+
+#left4button:hover{
+    background-color: rgb(44, 44, 44);
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+#minebutton{
+    color: rgb(20, 20, 20);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 280px;
+    margin-top: 70px;
+}
+
+#minebutton:hover{
+    background-color: rgb(44, 44, 44);
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+#snapbutton{
+    color: rgb(20, 20, 20);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 280px;
+    margin-top: 80px;
+}
+
+#snapbutton:hover{
+    background-color: rgb(44, 44, 44);
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+#daemonbutton{
+    color: rgb(20, 20, 20);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 280px;
+    margin-top: 70px
+
+}
+
+
+#daemonbutton:hover{
+    background-color: rgb(44, 44, 44);
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+/*BOTÕES*/
+
+/*JOGOS*/
+
+.games{
+    border-style: outset;
+    border-bottom: 10px;
+    border-bottom: 50px;
+}
+
+
+
+/*JOGOS*/
+
+/*imagens*/
+
+
+.img{
+    margin-left: 150px;
+    margin-top: 2px;
+}
+
+#csimg{
+    margin-left: 280px;
+    margin-top: 30px;
+    width: 200px;
+    height: 250px;
+
+}
+
+#spotimg{
+    margin-left: 195px;
+    margin-top: 30px;
+    width: 300px;
+    height: 300px;
+}
+
+#caseimg{
+    margin-left: 160px;
+    margin-top: 2px;
+    width: 400px;
+    height:300px ;
+}
+
+#f1img{
+    margin-left:200px;
+    margin-top: 2px;
+    width: 300px;
+    height: 300px;
+}
+
+#left4img{
+    margin-left: 200px;
+    margin-top: 2px;
+    width: 300px;
+    height:300px
+}
+
+
+#mineimg{
+    margin-left: 225px;
+    margin-top: 50px;
+    width: 250px;
+    height: 250px; 
+}
+
+#snapimg{
+    margin-left: 220px;
+    margin-top: 30px;
+    width: 250px;
+    height:250px
+}
+
+#daemonimg{
+    margin-left: 220px;
+    margin-top: 40px;
+    width: 250px;
+    height: 250px;
+}
+
+/*imagens*/
