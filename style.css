@@ -22,7 +22,6 @@ background-image: -webkit-linear-gradient(right, rgb(54, 54, 54), rgb(27, 27, 27
     height: 500px;
     background-color: rgb(80, 80, 80);
     border-color:transparent;
-    display: flex;
 }
 
 
@@ -342,7 +341,6 @@ background-image: -webkit-linear-gradient(right, rgb(54, 54, 54), rgb(27, 27, 27
         height: 500px;
         background-color: rgb(80, 80, 80);
         border-color:transparent;
-        display: flex;
     }
 
     #caseimg{
@@ -516,7 +514,6 @@ background-image: -webkit-linear-gradient(right, rgb(54, 54, 54), rgb(27, 27, 27
             height: 500px;
             background-color: rgb(80, 80, 80);
             border-color:transparent;
-            display: flex;
         }
     
         #caseimg{
