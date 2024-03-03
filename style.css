@@ -501,12 +501,182 @@ background-image: -webkit-linear-gradient(right, rgb(54, 54, 54), rgb(27, 27, 27
         margin-left: 160px;
         margin-top: 80px;
     }
+
+      
+
+    }
+
+
+    @media screen and (max-width: 600px){
+        .games{
+            margin-left: 5px;
+            width: 450px;
+            height: 500px;
+            background-color: rgb(80, 80, 80);
+            border-color:transparent;
         }
-
-
-
-
-/*reponsivo*/
+    
+        #caseimg{
+            margin-left: 25px;
+            margin-top: 2px;
+            width: 400px;
+            height:300px ;
+        }
+    
+        #casebutton{
+            color: rgb(20, 20, 20);
+            background-color: rgb(255, 255, 255);
+            border: none;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 25px;
+            font-weight: bold;
+            margin-left: 160px;
+            margin-top: 70px;
+        }
+    
+        #csimg{
+            margin-left: 160px;
+            margin-top: 30px;
+            width: 200px;
+            height: 250px;
+        
+        }
+    
+    
+    
+    
+        #csbutton{
+            color: rgb(20, 20, 20);
+            background-color: rgb(255, 255, 255);
+            border: none;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 25px;
+            font-weight: bold;
+            margin-left: 160px;
+            margin-top: 90px;
+        }
+    
+    
+        #f1img{
+            margin-left:80px;
+            margin-top: 2px;
+            width: 300px;
+            height: 300px;
+        }
+    
+        #f1button{
+            color: rgb(20, 20, 20);
+            background-color: rgb(255, 255, 255);
+            border: none;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 25px;
+            font-weight: bold;
+            margin-left: 160px;
+            margin-top: 70px;
+        }
+    
+        #left4img{
+            margin-left: 80px;
+            margin-top: 2px;
+            width: 300px;
+            height:300px
+        }
+    
+        #left4button{
+            color: rgb(20, 20, 20);
+            background-color: rgb(255, 255, 255);
+            border: none;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 25px;
+            font-weight: bold;
+            margin-left: 160px;
+            margin-top: 70px;
+        }
+    
+        #mineimg{
+            margin-left: 105px;
+            margin-top: 30px;
+            width: 250px;
+            height: 250px; 
+        }
+    
+        #minebutton{
+            color: rgb(20, 20, 20);
+            background-color: rgb(255, 255, 255);
+            border: none;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 25px;
+            font-weight: bold;
+            margin-left: 160px;
+            margin-top: 70px;
+        }
+    
+        #snapimg{
+            margin-left: 100px;
+            margin-top: 30px;
+            width: 250px;
+            height:250px;
+        }
+    
+    
+        #snapbutton{
+            color: rgb(20, 20, 20);
+            background-color: rgb(255, 255, 255);
+            border: none;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 25px;
+            font-weight: bold;
+            margin-left: 160px;
+            margin-top: 90px;
+        }
+    
+        #spotimg{
+            margin-left: 80px;
+            margin-top: 30px;
+            width: 300px;
+            height: 300px;
+        }
+    
+        #spotbutton{
+            color: rgb(20, 20, 20);
+            background-color: rgb(255, 255, 255);
+            border: none;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 25px;
+            font-weight: bold;
+            margin-left: 160px;
+            margin-top: 40px;
+        }
+    
+    
+        #daemonimg{
+            margin-left: 105px;
+            margin-top: 40px;
+            width: 250px;
+            height: 250px;
+        }
+    
+        #daemonbutton{
+            color: rgb(20, 20, 20);
+            background-color: rgb(255, 255, 255);
+            border: none;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 25px;
+            font-weight: bold;
+            margin-left: 160px;
+            margin-top: 80px;
+        }
+    
+          
+    }
 
 
 
