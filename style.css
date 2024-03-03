@@ -501,10 +501,7 @@ background-image: -webkit-linear-gradient(right, rgb(54, 54, 54), rgb(27, 27, 27
         margin-left: 160px;
         margin-top: 80px;
     }
-
-      
-
-    }
+        }
 
 
     @media screen and (max-width: 600px){
@@ -679,7 +676,7 @@ background-image: -webkit-linear-gradient(right, rgb(54, 54, 54), rgb(27, 27, 27
     }
 
 
-
+/*reponsivo*/
 
 
 
