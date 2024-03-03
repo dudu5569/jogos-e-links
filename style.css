@@ -335,6 +335,19 @@ background-image: -webkit-linear-gradient(right, rgb(54, 54, 54), rgb(27, 27, 27
 
 
 @media screen and ( max-width: 768px){
+
+    #butao{
+        color: rgb(20, 20, 20);
+        background-color: rgb(255, 255, 255);
+        border: none;
+        border-radius: 5px;
+        text-align: center;
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 30px;      
+        margin-left: 280px;
+    }
+
     .games{
         margin-left: 150px;
         width: 450px;
@@ -508,6 +521,20 @@ background-image: -webkit-linear-gradient(right, rgb(54, 54, 54), rgb(27, 27, 27
 
 
     @media screen and (max-width: 600px){
+
+        #butao{
+            color: rgb(20, 20, 20);
+            background-color: rgb(255, 255, 255);
+            border: none;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 30px;      
+            margin-left: 150px;
+        }
+
+
         .games{
             margin-left: 5px;
             width: 450px;
@@ -677,6 +704,9 @@ background-image: -webkit-linear-gradient(right, rgb(54, 54, 54), rgb(27, 27, 27
     
           
     }
+
+
+
 
 
 
