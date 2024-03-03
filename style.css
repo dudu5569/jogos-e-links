@@ -92,6 +92,7 @@ background-image: -webkit-linear-gradient(right, rgb(54, 54, 54), rgb(27, 27, 27
     font-weight: bold;
     margin-top: 30px;      
     margin-left: 585px;
+    position: absolute;
 }
 
 #butao:hover{
